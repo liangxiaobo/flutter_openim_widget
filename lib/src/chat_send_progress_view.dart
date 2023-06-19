@@ -35,7 +35,7 @@ class _ChatSendProgressViewState extends State<ChatSendProgressView> {
       if (!mounted) return;
       if (widget.msgId == event.msgId) {
         setState(() {
-          _progress = event.value;
+          _progress = event.value > 100 ? 100 : event.value;
         });
       }
     });
