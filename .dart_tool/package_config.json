@@ -219,7 +219,7 @@
     },
     {
       "name": "flutter_openim_sdk",
-      "rootUri": "file:///Users/gugen/.pub-cache/git/Open-IM-SDK-Flutter-39727feb8ac4905963b277521542e9c9a50c8ccf/",
+      "rootUri": "file:///Users/gugen/.pub-cache/hosted/pub.flutter-io.cn/flutter_openim_sdk-2.3.5+3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -758,7 +758,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-06-20T01:04:20.537026Z",
+  "generated": "2023-06-20T01:19:42.734484Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }

@@ -44,12 +44,13 @@ dependencies:
   emoji_picker_flutter: ^1.6.1
   should_rebuild: ^1.0.1
 #  flutter_openim_sdk: 2.3.5+2
-  flutter_openim_sdk:
-#    path: ../flutter_openim_sdk
-    git:
-      url: git@github.com:OpenIMSDK/Open-IM-SDK-Flutter.git
+  flutter_openim_sdk: 2.3.5+3
+#  flutter_openim_sdk:
+##    path: ../flutter_openim_sdk
+#    git:
+##      url: git@github.com:OpenIMSDK/Open-IM-SDK-Flutter.git
 #      url: https://github.com/OpenIMSDK/Open-IM-SDK-Flutter.git
-      ref: 2.3.5+3
+#      ref: 2.3.5+3
 
 
 

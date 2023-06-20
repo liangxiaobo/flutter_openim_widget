@@ -289,11 +289,10 @@ packages:
   flutter_openim_sdk:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "2.3.5+3"
-      resolved-ref: "39727feb8ac4905963b277521542e9c9a50c8ccf"
-      url: "git@github.com:OpenIMSDK/Open-IM-SDK-Flutter.git"
-    source: git
+      name: flutter_openim_sdk
+      sha256: "86ad8ecd8597b59fd0735333bf7ca88a4d4344868a6cb09dd4d3df2b8003ca3d"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
     version: "2.3.5+3"
   flutter_screenutil:
     dependency: "direct main"
