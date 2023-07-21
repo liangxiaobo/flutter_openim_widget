@@ -3,7 +3,6 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/record_web-0.5.0" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.6.2" />
-      <root url="file://$USER_HOME$/.pub-cache/git/Open-IM-SDK-Flutter-39727feb8ac4905963b277521542e9c9a50c8ccf" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_keyboard_visibility_web-2.0.0" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wakelock_web-0.4.0" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/wakelock_macos-0.4.0" />
@@ -38,6 +37,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path_provider-2.0.15" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_keyboard_visibility_windows-1.0.0" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_keyboard_visibility_linux-1.0.0" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/flutter_openim_sdk-2.3.5+3" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
